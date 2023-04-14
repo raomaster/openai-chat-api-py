@@ -1,7 +1,7 @@
 # CHATGPT API WITH PYTHON
 
 ## First
-You need to add your api ley for openai.com
+You need to add your api key for openai.com
 ```bash
 export OPENAI_APY_KEY=asdasdasdasdasdadsad
 ```
