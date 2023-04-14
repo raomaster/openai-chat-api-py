@@ -21,7 +21,7 @@ python main.py
 ## Example
 Show the image:
 
-<img src="docs/example_spanish.png" alt="Example of the terminal prmopt" width="50%" title="Terminal example">
+<img src="docs/example_spanish.png" alt="Example of the terminal prmopt" width="75%" title="Terminal example">
 
 
 ## References
