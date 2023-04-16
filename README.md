@@ -2,8 +2,14 @@
 
 ## First
 You need to add your api key for openai.com
+You can find your API key at https://platform.openai.com/account/api-keys.
+Linux terminal:
 ```bash
-export OPENAI_APY_KEY=asdasdasdasdasdadsad
+export OPENAI_API_KEY=sk-asdasdasdasdasdadsad
+```
+windows terminal (Powershell):
+```powershell
+$OPENAI_APY_KEY = "sk-asdasdasdasdasdadsad"
 ```
 
 ## Install dependencies and run
