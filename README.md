@@ -11,6 +11,12 @@ windows terminal (Powershell):
 ```powershell
 $OPENAI_APY_KEY = "sk-asdasdasdasdasdadsad"
 ```
+windows terminal (cmd.exe):
+```cmd
+set myVariable=Hello, World!
+```
+
+
 
 ## Install dependencies and run
 
